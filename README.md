@@ -22,7 +22,8 @@ The James Webb Space Telescope is not just a marvel of engineering; it's a gatew
 
 # 2. Dataset
 
-For my project, I obtained a dataset from the Kaggle database system, which was originally published by the Sloan Digital Sky Survey and gathered using a ground telescope in New Mexico, USA. This dataset is instrumental in preparing for the massive influx of data expected from the James Webb Telescope.
+
+For my project, I obtained a dataset from the Kaggle database system [link](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17), which was originally published by the Sloan Digital Sky Survey and gathered using a ground telescope in New Mexico, USA. This dataset is instrumental in preparing for the massive influx of data expected from the James Webb Telescope.
 
 The dataset contains a substantial one hundred thousand data points, making it highly valuable for my project's needs. However, I decided to exclude certain ID-related features and unique identifiers, such as spec_obj_ID and obj_ID, as they do not contribute to the core analysis. During the data preprocessing stage, I manually selected the most relevant features that will be used throughout the project. These features include:
 
