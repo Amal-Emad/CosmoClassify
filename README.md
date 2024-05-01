@@ -23,7 +23,7 @@ For our cosmic voyage, I've secured a dataset from the Kaggle database system �
 
 In essence, my project, known as **"Cosmoclassify,"** is poised to harness the power of machine learning algorithms to classify and gain profound insights into the enigmatic celestial objects that populate the universe.
 
-🚀 **Ready to embark on our cosmic voyage?!!** ![Space Image](https://source.unsplash.com/1600x900/?space,universe)
+
 
 ## 🌟 Main Purpose
 The **Cosmo Classify Project** sets its sights on the following cosmic objectives:
